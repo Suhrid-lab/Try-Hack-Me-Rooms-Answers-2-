@@ -1,0 +1,19 @@
+1. No answer needed
+2. No answer needed
+3. No answer needed
+4. 1. attacker.thm
+   2. 154
+5. 1. dc7c8ac5c09a4bbfaf3d09d399f10d96
+   2. x86_64
+6. 1. sshdd
+   2. .systm_updater
+   3. rdp_updater
+7. ESTABLISHED
+8. 1. keylogger.log
+   2. sshdd
+   3. .systmd
+   4. datacollector
+   5. {NOT_SO_BENIGN_Package}
+9. 1. systm.service
+   2. /home/badactor/storage/.secret_docs/rdp_updater
+10. No answer needed
