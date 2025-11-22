@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. 1467
+   2. 203.0.113.55
+3. 1. 3
+   2. python-requests/2.25.1
+   3. 20
+   4. hostname
+4. 1. 17166
+   2. 964
+   3. 4720
+   4. svc_backup
+5. 1. net localgroup "Remote Desktop Users" svc_backup /add
+   2. 17254
+   3. net group "Domain Admins" /domain
+   4. finance_it_archive.rar
+6. No answer needed
