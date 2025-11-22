@@ -1,0 +1,18 @@
+1. No answer needed
+2. 1. Kernel
+   2. Kernel ring buffer
+   3. WARNING
+3. btmp
+4. 1. alert
+   2. 9
+5. Storage
+6. ausearch
+7. sudo grep -i "session opened" /var/log/auth.log
+8. /var/log/apache2
+9. 1. 10.10.190.69
+   2. cmd.php
+   3. 5000
+   4. tests.sh
+   5. attacker
+   6. n
+10. No answer needed
