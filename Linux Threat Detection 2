@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. Amazon
+   2. /var/lib/ultrasec/malscan
+3. 1. /home/itsupport/debug.sh
+   2. ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%cpu
+   3. greg@tryhackme.thm
+4. 1. artifacts.elastic.co
+   2. /var/tmp/helper.sh
+   3. curl
+5. 1. 45.9.148.125
+   2. last
+   3. ds_agent,falcon,sentinel
+6. 1. kernupd.tar.gz
+   2. nohup /tmp/.apt/kernupd/kernupd
+   3. 10.10.12.1-10.10.12.10
+7. No answer needed
