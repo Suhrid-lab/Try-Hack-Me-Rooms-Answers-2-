@@ -1,0 +1,20 @@
+1. No answer needed
+2. No answer needed
+3. No answer needed
+4. 1. 55985
+   2. 192.168.0.30
+   3. 2025-05-07 07:13:56.000000
+   4. 55987
+   5. TCPv4
+   6. windows-update.exe, updater.exe, powershell.exe
+5. 1. windows.malfind
+   2. 0x1a0000
+   3. 4d5a
+6. 1. 55987
+   2. 10.0.0.129
+   3. 4443
+7. 1. 10.0.0.129
+   2. C:\Users\operator\AppData\Roaming\Microsoft\Windows\StartMenu\Programs\Startup\
+   3. T1055.002
+   4. external-attacker.thm
+8. No answer needed
