@@ -1,0 +1,15 @@
+1. No answer needed
+2. No answer needed
+3. 1. wmiprvse.exe
+   2. T1021.006
+   3. TeamsView.exe
+   4. S-1-5-21-3147497877-3647478928-1701467185-1008
+   5. Domain Users
+   6. ipconfig.exe, systeminfo.exe, whoami.exe
+   7. 34.244.169.133:1995
+4. 1. C:\Windows\Temp\pan.exe
+   2. Local System
+   3. privilege::debug sekurlsa::logonpasswords
+   4. Mimikatz
+   5. T1036
+5. No answer needed
