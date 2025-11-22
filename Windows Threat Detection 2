@@ -1,0 +1,18 @@
+1. No answer needed
+2. 1. Administrators
+   2. C:\Windows\System32\net.exe
+3. 1. whoami
+   2. cmd /c "tasklist /v | findstr MsSense.exe || echo No MS Defender EDR"
+   3. exfil.beecz.cafe
+4. 1. nsAghv51BBav90!
+   2. thm-access-database.key
+   3. thm-network-diagram-2025.pdf
+5. 1. staging_58f1
+   2. docx, pdf, xlsx
+   3. Get-ClipBoard
+   4. collecteddata-storage-2025.s3.amazonaws.com
+6. 1. THM{just_use_web_browser}
+   2. THM{curl_is_cool}
+   3. THM{abusing_certutil}
+   4. THM{power_of_powershell}
+7. No answer needed
