@@ -1,0 +1,26 @@
+1. 1. No answer needed
+   2. No answer needed
+   3. No answer needed
+2. 1. runas.exe
+   2. /netonly
+   3. SYSVOL
+   4. Kerberos Authentication
+3. 1. 2
+   2. 1
+   3. 7
+   4. 3
+   5. THM{Enumerating.Via.MMC}
+4. 1. Internet Access
+   2. Nay
+   3. 7
+   4. 30
+5. 1. Senior
+   2. CN=annette.manning,OU=Marketing,OU=People,DC=za,DC=tryhackme,DC=com
+   3. 2/24/2022 10:04:41 PM
+   4. S-1-5-21-3330634377-1326264276-632209373-519
+   5. CN=Deleted Objects,DC=za,DC=tryhackme,DC=com
+6. 1. Sharphound.exe --CollectionMethods Session --Domain za.tryhackme.com --ExcludeDCs
+   2. 4
+   3. 2
+   4. 15
+7. No answer needed
