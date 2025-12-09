@@ -1,0 +1,148 @@
+1. No answer needed
+2. 1. No answer needed
+   2. No answer needed
+   3. No answer needed
+   4. No answer needed
+3. No answer needed
+4. 1. No answer needed
+   2. No answer needed
+5. 1. 4
+   2. CentOS
+   3. https://thomaswreath.thm
+   4. No answer needed
+   5. +447821548812
+   6. MiniServ 1.890 (Webmin httpd)
+   7. CVE-2019-15107
+   8. No answer needed
+6. 1. No answer needed
+   2. root
+   3. No answer needed
+   4. No answer needed
+   5. $6$i9vT8tk3SoXXxK2P$HDIAwho9FOdd4QCecIJKwAwwh8Hwl.BdsbMOUAd3X/chSCvrmpfy.5lrLgnRVNq6/6g0PxK9VqSdy47/qKXad1
+   6. /root/.ssh/id_rsa
+   7. No answer needed
+7. No answer needed
+8. 1. Tunnelling
+   2. portfwd
+9. 1. /etc/resolv.conf
+   2. C:\Windows\System32\drivers\etc\hosts
+   3. for i in {1..255}; do (ping -c 1 172.16.0.${i} | grep "bytes from" &); done
+10. 1. socks4 127.0.0.1 4242
+    2. proxychains telnet 172.16.0.100 23
+    3. FP
+11. 1. L
+    2. -fN
+    3. Nay
+    4. ssh-keygen
+    5. ssh -R 2222:172.16.0.100:22 kali@172.16.0.200 -i id_rsa -fN
+    6. ssh -D 8000 user@target.thm -fN
+    7. ssh -L 8000:127.0.0.1:80 user@172.16.0.50 -fN
+12. puttygen
+13. 1. reuseaddr
+    2. ./socat tcp-l:8000 tcp:172.16.0.200:443
+    3. ./socat tcp-l:2222,fork,reuseaddr tcp:172.16.0.100:22 &
+    4. No answer needed
+14. 1. ./chisel server -p 4242 --reverse
+    2. ./chisel client 172.16.0.200:4242 R:socks &
+    3. ./chisel client 172.16.0.200:1337 R:33060:172.16.0.100:3306 &
+    4. ./chisel client 172.16.0.5:4444 8000:172.16.0.10:80
+15. 1. sshuttle -r pwned@172.16.20.7 172.16.0.0/16
+    2. --ssh-cmd "ssh  -i priv_key"
+    3. -x 172.16.0.100
+16. No answer needed
+17. 1. 2
+    2. 100,150
+    3. 150
+    4. 80,3389,5985
+    5. HTTP
+    6. No answer needed
+18. 1. Gitstack
+    2. Nay
+    3. No answer needed
+    4. 43777
+19. 1. 18.01.2018
+    2. Python2
+    3. No answer needed
+    4. csrftoken
+20. 1. No answer needed
+    2. git-serv
+    3. Windows
+    4. NT AUTHORITY\SYSTEM
+    5. 0
+    6. No answer needed
+    7. No answer needed
+21. 1. No answer needed
+    2. No answer needed
+    3. 37db630168e5f82aafa8461e05c6bbd1
+    4. 02d90eda8f6b6b06c32d5f207831101f
+    5. i<3ruby
+    6. No answer needed
+22. No answer needed
+23. No answer needed
+24. 1. No answer needed
+    2. Nay
+25. No answer needed
+26. 1. No answer needed
+    2. No answer needed
+27. 1. shell whoami
+    2. No answer needed
+28. No answer needed
+29. No answer needed
+30. No answer needed
+31. No answer needed
+32. 1. No answer needed
+    2. No answer needed
+33. 80,3389
+34. 1. No answer needed
+    2. PHP 7.4.11
+35. 1. C:\Gitstack\Repositories\Website.git
+    2. No answer needed
+    3. No answer needed
+    4. No answer needed
+    5. No answer needed
+36. 1. Neighbourhood Watch Meetings
+    2. Basic Auth
+    3. jpg,jpeg,png,gif
+    4. No answer needed
+37. 1. No answer needed
+    2. No answer needed
+    3. No answer needed
+38. 1. On-Disk Evasion
+    2. Anti-Malware Scan Interface
+    3. In-Memory Evasion
+39. 1. Behavioural
+    2. Static
+    3. Pre-defined rules
+    4. Password
+40. 1. No answer needed
+    2. No answer needed
+    3. No answer needed
+    4. WREATH-PC
+    5. wreath-pc\thomas
+41. 1. No answer needed
+    2. No answer needed
+    3. CertUtil: -dump command completed successfully.
+    4. No answer needed
+    5. No answer needed
+    6. No answer needed
+42. 1. SeImpersonatePrivilege
+    2. No answer needed
+    3. SystemExplorerHelpService
+    4. Aye
+    5. No answer needed
+    6. No answer needed
+43. 1. No answer needed
+    2. No answer needed
+    3. No answer needed
+    4. No answer needed
+    5. No answer needed
+    6. No answer needed
+    7. No answer needed
+44. 1. Nay
+    2. Encryption
+    3. No answer needed
+    4. a05c3c807ceeb48c47252568da284cd2
+    5. No answer needed
+45. 1. No answer needed
+    2. No answer needed
+46. No answer needed
