@@ -1,0 +1,24 @@
+1. 1. No answer needed
+   2. No answer needed
+   3. No answer needed
+2. 1. lsadump::dcsync /domain:za.tryhackme.loc /user:test
+   2. 16f9af38fca3ada405386b3b57366082
+3. 1. krbtgt
+   2. Golden ticket
+   3. Silver ticket
+   4. 10
+4. 1. private key
+   2. ForgeCert.exe
+   3. kerberos::ptt ticket.kirbi
+5. 1. SIDHistory
+   2. ntds.dit
+   3. Start-Service -Name ntds
+6. 1. Group Nesting
+   2. Add-ADGroupMember -Identity "thmgroup" -Members "thmtest"
+7. 1. AdminSDHolder
+   2. SDProp
+   3. Full Control
+8. 1. Group Policy Management
+   2. Restricted Groups
+   3. Delegation
+9. No answer needed
