@@ -1,0 +1,29 @@
+1. No answer needed
+2. 1. No answer needed
+   2. No answer needed
+   3. No answer needed
+3. 1. build orchestrator
+   2. build agents
+   3. maximum visibility
+4. 1. Gitlab Runner
+   2. THM{Welcome.to.CICD.Pipelines}
+5. 1. .gitignore
+   2. branches
+   3. unauthorised tampering
+   4. THM{You.Found.The.API.Key}
+6. 1. secure registry
+   2. secret management
+   3. dependency confusion
+   4. THM{7753f7e9-6543-4914-90ad-7153609831c3}
+7. 1. VPN
+   2. Token-based authentication
+   3. THM{1769f776-e03c-40b6-b2eb-b298297c15cc}
+8. 1. merge requests
+   2. limit runner access
+   3. THM{2411b26f-b213-462e-b94c-39d974e503e6}
+9. 1. isolate environments
+   2. THM{28f36e4a-7c35-4e4d-bede-be698ddf0883}
+   3. THM{e9f99dbe-6bae-4849-adf7-18a449c93fe6}
+10. 1. nay
+    2. THM{Secrets.are.meant.to.be.kept.Secret}
+11. No answer needed
