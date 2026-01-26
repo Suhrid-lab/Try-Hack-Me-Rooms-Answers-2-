@@ -35,20 +35,20 @@
    11.  /etc/trycrm/config.json
    12. portaldrop2025.xyz
    13. THM{p0rtal_dropp3d?}
-6. 1. 
-   2. 
-   3. 
-   4. 
-   5. 
-   6. 
-   7. 
-   8. 
-   9. 
-   10. 
-   11. 
-   12. 
-   13. 
-   14. 
+6. 1. JP-BROWN-WS
+   2. T1204.002
+   3. C:\Users\jp.brown\Downloads\TravisClart_Resume.pdf.lnk
+   4. C:\Windows\System32\mshta.exe
+   5. 10.10.14.174
+   6. C:\Windows\Temp\RuntimeBroker.exe
+   7. HKCU\Software\Microsoft\Windows\CurrentVersion\Run\SystemMonitor
+   8. Invoke-Mimikatz -DumpCreds
+   9. DisableRealtimeMonitoring
+   10. 6612
+   11. 2025-11-14 05:19:42
+   12. C:\Windows\Temp\Setup-BackupServer.ps1
+   13. .bak, .backup, .sql, .mdb
+   14. C:\Users\bkup-svc\AppData\Local\Temp\sysbackup_20251114.dat
 7. 1. 10.10.10.100
    2. 1.1.1.1:8080
    3. 00:0c:29:11:22:33
