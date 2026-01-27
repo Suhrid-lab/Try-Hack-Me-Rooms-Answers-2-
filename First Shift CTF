@@ -57,18 +57,18 @@
    6. username=dev_user&password=SecretPassword!
    7. exfil-domain.xyz
    8. DNS
-8. 1. 
-   2. 
-   3. 
-   4. 
-   5. 
-   6. 
-   7. 
-   8. 
-   9. 
-   10. 
-   11. 
-   12. 
-   13. 
-   14. 
+8. 1. \\DC-01\SYSVOL\gaze.exe
+   2. BabyLockerKZ
+   3. .danger17
+   4. T1047
+   5. 135, 139, 445, 3389, 5985
+   6. C:\Windows\System32\fr-FR\ruche.dll
+   7. LanguageSync
+   8. 27B0D51406B5360B49D968D69DF0F3E6
+   9. Cobalt Strike
+   10. DESKTOP-J9PR0CO
+   11. \\SRV-ITFS\Integrations\cloud-keys.csv
+   12. 152.42.128.207
+   13. beta.tar.gz, latest.tar.gz
+   14. YOU-HAVE-BEEN-PWNED.txt
 9. No answer needed
