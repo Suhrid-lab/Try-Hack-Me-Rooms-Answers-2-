@@ -1,0 +1,16 @@
+1. No answer needed
+2. No answer needed
+3. 1. NTDS.dit
+   2. Nay
+   3. 4768
+   4. 14
+4. 1. Group_Name
+   2. 3
+5. 1. $
+   2. THM-DC$
+6. auditpol /get /category:*
+7. 1. nathan.brooks
+   2. adm-luke.sullivan
+   3. Marketing
+   4. 10.5.50.12
+8. No answer needed
