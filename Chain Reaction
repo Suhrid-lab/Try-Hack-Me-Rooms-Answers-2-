@@ -1,0 +1,13 @@
+1. No answer needed
+2. No answer needed
+3. No answer needed
+4. 1. 1.14.1
+   2. typing-coreutils@1.6.4
+   3. node postinst.js
+   4. OrDeR_7077
+   5. http://sfrquack.thm:8000/1502068
+   6. pypi.org/latest
+   7. /tmp/.promise.py
+   8. unattended-upgr /home/ubuntu/.local/apt.conf
+   9. T1546.004
+   10. THM{audit_your_deps!}
