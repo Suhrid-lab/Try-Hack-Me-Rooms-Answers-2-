@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. SafeTensors
+   2. weights_only=True
+3. 1. Quarantine
+   2. model_review_v2.pkl
+4. int
+5. 1. Fickling
+   2. CRITICAL
+6. 5
+7. manipulate_output
+8. 1. Version Pinning
+   2. pip-audit
+   3. CycloneDX
+9. 1. Behavioural Baseline
+   2. System Prompts
+   3. TryTrainML
+10. No answer needed
