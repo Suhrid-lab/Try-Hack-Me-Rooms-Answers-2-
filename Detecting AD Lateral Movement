@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. nltest  /domain_trusts
+   2. Import-Module ActiveDirectory; Get-ADUser -Filter * -Properties MemberOf | Select-Object Name, SamAccountName
+3. 1. 10
+   2. 4648
+4. 1. luke.sullivan
+   2. michelle.smith
+5. 1. THM-SQL-SRV
+   2. C:\Tools\PsExec.exe  -accepteula \\THM-SQL-SRV cmd /c "hostname & whoami & ipconfig"
+6. 1. 10.5.30.120
+   2. 10.5.50.12
+7. 1. %SystemRoot%\svcupdate.exe
+   2. ryan.chen
+   3. 10.5.50.15
+   4. "cmd" /c "hostname & whoami & ipconfig"
+   5. THM-HR-WS
+8. No answer needed
