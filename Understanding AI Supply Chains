@@ -1,0 +1,15 @@
+1. No answer needed
+2. 1. Build Process
+   2. Transitive Dependency
+3. 1. datasets, dependencies, frameworks, models
+   2. Serialised Objects
+4. gguf
+5. 1. Model Layer
+   2. Serialisation-level
+   3. Data Layer
+6. 1. Dependency Layer
+   2. Infrastructure Layer
+7. 1. trustworthy-ai-models
+   2. 127
+   3. SafeTensors
+8. No answer needed
