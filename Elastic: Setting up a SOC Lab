@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. Kibana
+   2. Fleet Server
+3. 1. 5601
+   2. Analytics
+4. 1. System
+   2. system.auth
+   3. user testuser added by root to group sudo
+5. 1. apache.access
+   2. THM{access_log_secrets!}
+6. 1. s.summer
+   2. 72.14.24.1
+7. 1. 62.5%
+   2. us-west-1
+   3. 10.10.10.116
+8. No answer needed
