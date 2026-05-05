@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. 9.2.0
+   2. Prevent
+3. 1. python3.12
+   2. ipv4
+4. 1. /usr/bin/bash
+   2. find /home -name *creds*
+   3. creds
+5. 1. 73
+   2. malicious_file
+   3. 47
+   4. Privilege Escalation
+6. 1. 3
+   2. /usr/bin/printf
+   3. 10.10.10.100 4444
+   4. system-update
+7. No answer needed
