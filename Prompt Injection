@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. context window
+   2. system prompt
+   3. ChatML
+   4. next-token prediction
+3. 1. prompt injection
+   2. tokens
+   3. OWASP
+4. 1. Sydney
+   2. format-based injection
+   3. THM{duD3_wh3r3s_my_c4R}
+5. 1. indirect prompt injection
+   2. zero-click
+   3. EchoLeak
+6. adam.driver@llmborghini.com
+7. No answer needed
