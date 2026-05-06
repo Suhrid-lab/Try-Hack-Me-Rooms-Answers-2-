@@ -1,0 +1,17 @@
+1. No answer needed
+2. LLM02
+3. 1. Similarity
+   2. Top-k
+   3. EchoLeak
+4. 1. Cosine
+   2. Inversion
+5. Top-k
+6. 1. Namespace
+   2. Per-tenant
+   3. Deterministic
+7. 1. Redaction
+   2. Retention
+8. 1. Broad Retrieval
+   2. Semantic Collision
+   3. Metadata Filtering 
+9. No answer needed
