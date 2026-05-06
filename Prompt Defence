@@ -1,0 +1,14 @@
+1. No answer needed
+2. Defence-in-depth
+3. 1. System
+   2. Sensitive data
+   3. Tight Scoping
+   4. Persona Restriction
+4. 1. Blocklist
+   2. Input guardrail
+   3. Llama Prompt Guard 2
+5. 1. Principle of least privilege
+   2. LLM05:2025
+   3. XSS
+6. THM{fbu349b3u4b934byr93b}
+7. No answer needed
