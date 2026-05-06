@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. Control Plane
+   2. Amazon EC2
+3. 1. 149.40.62.48
+   2. 398985017225
+   3. prod-website-thm
+4. 1. ProtonVPN
+   2. /home/ubuntu/xmrig-6.24.0/xmrig, donate.v2.xmrig.com
+   3. arn:aws:iam::398985017225:root
+   4. 22, 3389
+5. 1. 168.84.119.124
+   2. 14
+   3. backup.tar.gz
+6. 1. Managed Service
+   2. Falco
+7. No answer needed
