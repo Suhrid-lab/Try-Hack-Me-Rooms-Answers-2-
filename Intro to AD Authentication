@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. Authentication
+   2. Authorisation
+3. 1. Service
+   2. Challenge
+   3. THM{5cbcc61a-3178-4220-88b4-367c1bbb48e7}
+4. 1. Ticket Granting Ticket
+   2. krbtgt
+   3. KRB5CCNAME
+   4. THM{0d3f818a-427a-425c-a451-55e43b83e876}
+5. 1. THM{0eef8df3-c8ea-41ad-acd7-ae0479b2badf}
+   2. THM{284c6735-b7c1-4221-b072-abf30a54eeda}
+   3. THM{5b57e69d-7089-4282-ba04-c72de9bfdb38}
+   4. THM{eac75729-86ea-4bab-98de-1c5ce3552f67}
+6. 1. 4768
+   2. NTLM
+7. No answer needed
