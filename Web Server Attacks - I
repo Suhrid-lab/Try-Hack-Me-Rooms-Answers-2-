@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. SimpleHTTP/0.6 Python/3.12.3
+   2. X-Powered-By
+   3. nginx
+3. 1. S3cur3DBPass!
+   2. THM{py_server_exposed}
+4. 1. mod_status
+   2. THM{apache_dir_listing}
+5. 1. development
+   2. THM{node_debug_exposed}
+6. 1. autoindex on
+   2. /nginx_status
+   3. THM{nginx_autoindex}
+7. 1. X-Frame-Options
+   2. Directory indexing found
+8. No answer needed
