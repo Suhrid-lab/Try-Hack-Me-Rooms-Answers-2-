@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. Exploit
+   2. Payload
+   3. Singles
+   4. /
+3. 1. search type:exploit apache
+   2. info 3
+   3. back
+4. 1. set LPORT 6666
+   2. setg RHOSTS 10.10.19.23
+   3. unset PAYLOAD
+   4. exploit
+   5. -z
+5. 1. background
+   2. -i
+   3. sessions -k 2
+6. No answer needed
