@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. named pipe
+   2. System.Net.Sockets.TCPClient
+   3. /dev/tcp
+3. 1. linux/x64/shell_reverse_tcp
+   2. -i
+   3. meterpreter
+4. 1. use multi/handler
+   2. -j
+   3. sessions -i
+5. 1. shell_exec
+   2. POST
+   3. php-reverse-shell.php
+6. 1. -f elf
+   2. Sending stage
+7. sysinfo
+8. No answer needed
