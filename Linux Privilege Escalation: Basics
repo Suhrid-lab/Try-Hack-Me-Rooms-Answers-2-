@@ -1,0 +1,15 @@
+1. No answer needed
+2. 1. /usr/bin/nano
+   2. THM{SUDO-pwned-priv-esc}
+3. 1. /usr/bin/vim.basic
+   2. THM{root-by-SUID-vulns}
+4. 1. /opt/path/mywhoami
+   2. whoami 
+   3. THM{PATH-and-SUID-leadtoroot}
+5. 1. 6
+   2. /usr/bin/python3.12
+   3. THM{caps_getting_r00T}
+6. 1. /etc/cron.d/cleanup
+   2. THM{g0t-r00t-from-cr0n}
+7. 1. /opt/nfs
+   2. THM{exports-r00T-nfs}
