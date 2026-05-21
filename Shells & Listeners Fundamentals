@@ -1,0 +1,18 @@
+1. No answer needed
+2. 1. R
+   2. T
+   3. R
+3. 1. socat
+   2. msfvenom
+4. 1. -l
+   2. nc 10.10.10.11 8090
+   3. -n
+5. 1. TCP-L:8080
+   2. pipes
+6. 1. fg
+   2. stty cols 238
+   3. sudo python3 -m http.server 80
+7. 1. verify=0
+   2. -newkey rsa:2048
+8. No answer needed
+9. No answer needed
