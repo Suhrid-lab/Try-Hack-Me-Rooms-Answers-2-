@@ -1,0 +1,13 @@
+1. No answer needed
+2. 1. X-Powered-By: Express
+   2. connect.sid
+   3. THM{pr0t0_p0llut3d}
+3. 1. window.__next_f
+   2. THM{m1ddl3w4r3_byp4ss3d}
+4. 1. csrfmiddlewaretoken
+   2. vuln_db
+5. 1. Apache/2.4.49 (Unix)
+   2. --path-as-is
+   3. THM{4p4ch3_p4th_tr4v3rs4l}
+6. No answer needed
+7. No answer needed
