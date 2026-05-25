@@ -1,0 +1,14 @@
+1. No answer needed
+2. 1. Server
+   2. 401
+3. 1. ~
+   2. 8.3
+   3. P@ssw0rd!123
+4. 1. 201
+   2. --ntlm
+5. 1. iis apppool\defaultapppool
+   2. SeImpersonatePrivilege
+6. 1. .bak
+   2. trace.axd
+7. http-methods
+8. No answer needed
