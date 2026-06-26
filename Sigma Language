@@ -1,0 +1,15 @@
+1. No answer needed
+2. 1. uncoder.io
+   2. sigma-cli
+3. 1. Emotet
+   2. filter_optional_remote_signed
+   3. OriginalFileName
+4. 1. process_creation
+   2. sigma check
+5. 1. Processes.process
+   2. FolderPath
+   3. process.command_line
+6. 1. THM{P0W3R_SH3LL_CR4DL3}
+   2. THM{CR3D_DUMP_4TTCK}
+   3. THM{R3N4M3D_P53X3C}
+7. No answer needed
