@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. 87
+   2. 23
+3. 1. /api/v2/check
+   2. whoami
+4. 1. S3cur3P@ssw0rd!
+   2. Compress-Archive -Path C:\Users\jsmith\Documents\* -DestinationPath C:\Temp\docs.zip
+   3. winservice-patch-4891.pdf
+5. 1. 4ec66c72e7d80620891118cb32206771ac37a227b6e77a2549b046748d8c234b
+   2. d17a83cf82a3cf4e5b3891e8b0923d00b22181e3079624cec60ca105c0eaf369
+   3. Cobalt Strike
+6. 1. update.softpatch-cdn.com
+   2. t13d040400_98dd3bb0ed34_34f36fd09b12
+7. 1. exfil.fastsync-cdn.net
+   2. 8
+8. No answer needed
