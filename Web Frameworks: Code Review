@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. requirements.txt
+   2. @app.route
+   3. config.py
+3. 1. source
+   2. sink
+   3. SSTI
+4. 1. -rn
+   2. --config
+5. 1. shell=True
+   2. pickle.loads
+6. 1. send_from_directory
+   2. IDOR
+7. 1. THM{un10n_b4s3d_sql1_dump3d}
+   2. THM{j1nj4_ss71_to_rc3}
+   3. THM{send_file_tr4v3rs4l_w1n}
+8. No answer needed
