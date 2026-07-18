@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. DEBUG
+   2. SECRET_KEY
+   3. django-insecure-7h3_5h4r3d_fr4m3w0rk_k3y_2026
+3. 1. extra
+   2. params
+   3. THM{dj4ng0_3xtr4_0rm_sql1}
+4. 1. SECRET_KEY
+   2. flask-unsign
+   3. THM{fl45k_s3ss10n_f0rg3d}
+5. 1. render_template_string
+   2. 7777777
+   3. THM{j1nj4_55t1_rc3_ch41n}
+6. 1. Flask
+   2. /error/
+   3. THM{py_fr4m3w0rk_ch41n_pwn3d}
+7. No answer needed
