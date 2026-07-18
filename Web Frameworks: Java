@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. *
+   2. env
+   3. THM{4ctu4t0r_3nv_l34kZ}
+3. 1. JdbcTemplate
+   2. secret
+   3. THM{jdbc_str1ng_c0nc4t_un10n}
+4. 1. role
+   2. @InitBinder
+   3. THM{spr1ng_m4ss_4ss1gnm3nt}
+5. 1. readObject
+   2. commons-collections
+   3. THM{j4v4_d3s3r14l1z4t10n_rc3}
+6. 1. /internal/import
+   2. CommonsCollections6
+   3. THM{wh1t3b0x_spr1ng_full_ch41n}
+7. No answer needed
