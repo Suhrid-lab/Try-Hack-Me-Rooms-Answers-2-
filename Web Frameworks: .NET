@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. machineKey
+   2. web.config.bak
+   3. THM{vi3wst4t3_d3s3r14l1z4t10n_rc3}
+3. 1. FromSqlRaw
+   2. Flags
+   3. THM{fr0m_sql_r4w_un10n_l34k}
+4. 1. IsAdmin
+   2. [Bind]
+   3. THM{0v3rp0st_t0_4dm1n}
+5. 1. TypeNameHandling.All
+   2. ObjectDataProvider
+   3. THM{j50n_n3t_typ3n4m3_rc3}
+6. 1. LegacyPortal
+   2. SHA1
+   3. THM{wh1t3b0x_full_ch41n_pwn3d}
+7. No answer needed
