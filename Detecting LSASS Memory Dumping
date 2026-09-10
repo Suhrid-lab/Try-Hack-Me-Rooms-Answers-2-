@@ -1,0 +1,14 @@
+1. No answer needed
+2. 1. d6da33571333169add40f1bb8050cd36
+   2. zoe.mercer
+   3. 58a478135a93ac3bf058a5ea0e8fdb71
+3. 1. 0x1F3FFF
+   2. rundll32 C:\ProgramData\mstel.dll,MiniDump 576 C:\Windows\Temp\lsass.bin full
+   3. 41.5
+4. 1. C:\Users\Public\Documents\lsass.exe.dmp
+   2. C:\Users\Public\Documents\lsass.exe.dmp
+   3. Process Hacker
+5. 1. kuhl_m_sekurlsa_acquireLSA
+   2. kernel mode driver
+   3. No answer needed
+6. No answer needed
