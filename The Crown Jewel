@@ -1,0 +1,8 @@
+1. 1. 10.10.10.100
+   2. 1.1.1.1:8080
+   3. 00:0c:29:11:22:33
+   4. CVE-202X-EXPLOIT
+   5. 90
+   6. username=dev_user&password=SecretPassword!
+   7. exfil-domain.xyz
+   8. DNS
