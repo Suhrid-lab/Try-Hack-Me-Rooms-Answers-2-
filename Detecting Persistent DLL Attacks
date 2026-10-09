@@ -1,0 +1,20 @@
+1. No answer needed
+2. 1. HKCU
+   2. Secure Boot
+   3. 0
+3. 1. Security Packages
+   2. C:\ProgramData\Microsoft\DeviceSync\syncsvc.dll
+   3. winprint.dll
+4. 1. {2155fee3-2419-4373-b102-6843707eb41f}
+   2. thumbcache.dll
+5. 23:01:47
+6. 1. 23:02:42
+   2. RunAsPPL
+7. reboot
+8. 1. DocSyncOverlay
+   2. {8B7D5A1C-4E2F-4A73-9C61-0D3F5E8A2B47}
+   3. C:\ProgramData\DocSync\dsovl.dll
+   4. luke.sullivan
+   5. 2026-08-17 10:27:49
+   6. 2
+9. No answer needed
