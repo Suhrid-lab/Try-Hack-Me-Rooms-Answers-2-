@@ -1,0 +1,14 @@
+1. No answer needed
+2. 1. THM-CA
+   2. NTLM
+   3. Machine
+   4. THM{web_enrollment_exposed_the_relay_surface}
+3. 1. THM\WS01$
+   2. The Print Spooler runs as SYSTEM, so its outbound authentication uses the computer account
+4. 1. THM/WS01$
+   2. Web Enrollment accepts relayed NTLM on plain HTTP and does not enforce EPA
+5. 1. ws01$@thm.local
+   2. The KDC accepted the certificate for WS01$ and issued a Ticket-Granting Ticket
+6. 1. THM{coerced_ntlm_became_machine_pkinit}
+   2. The certificate authenticates as WS01$ and receives only that computer account's existing rights
+7. No answer needed
