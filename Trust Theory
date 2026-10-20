@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. Parent-child
+   2. Uplevel
+   3. forest
+3. 1. trust key
+   2. Netlogon
+   3. referral TGT
+4. 1. partner.thm
+   2. FOREST_TRANSITIVE, QUARANTINED_DOMAIN
+   3. WITHIN_FOREST
+5. 1. 519
+   2. ExtraSids
+   3. THM{f0r357_15_7h3_b0undary}
+6. 1. SID filtering
+   2. NO_TGT_DELEGATION
+7. No answer needed
