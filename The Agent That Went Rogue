@@ -1,0 +1,20 @@
+1. No answer needed
+2. 1. 2026-07-09T04:01:08Z
+   2. Jinja2 template injection 
+   3. proxy-access.log
+3. 1. 33
+   2. THM{agent_c2_xor_decoded}
+   3. JWT
+4. 1. /var/run/secrets/kubernetes.io/serviceaccount/token
+   2. no privileged hostPath admission policy 
+   3. CSI driver ClusterRole (pods/create)
+5. 1. 169.254.169.254
+   2. DryRun=True 
+   3. proxy-access.log
+6. 1. system:masters
+   2. svc-connector-masters 
+   3. forged identity tokens
+7. 1. 5
+   2. execution policies
+   3. ev-0010
+8. No answer needed
