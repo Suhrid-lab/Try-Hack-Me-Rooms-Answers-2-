@@ -1,0 +1,7 @@
+1. 1. ReviewClient.exe
+   2. 0x8e0000
+   3. review-cover.png
+   4. T1027.009
+   5. kernel32.WinExec
+   6. 7d714a7267e88abc1afd223830cb74d7c840f677ff165fbec9c134595f06faa8
+   7. THM{2b3cc75adab999202e1879af542b2c11}
