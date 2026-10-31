@@ -1,0 +1,18 @@
+1. No answer needed
+2. 1. desk-read-svc
+   2. access-admin-svc
+3. 1. execute_as
+   2. identity sprawl
+4. 1. ASI03
+   2. NHI5
+5. 1. 0016
+   2. 0014
+6. 1. UNC6395
+   2. NHI7
+7. 1. assume_access_admin
+   2. 900
+   3. require_jit_credential
+8. 1. 0008
+   2. THM{no_inherited_owner_credentials}
+9. access-admin-svc
+10. No answer needed
