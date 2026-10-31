@@ -1,0 +1,14 @@
+1. No answer needed
+2. 1. Forged agent-to-agent message
+   2. Poisoned external data
+   3. Prompt Injection
+3. 1. user
+   2. tool_result
+4. 1. CVE-2019-3568
+   2. Microsoft 365 Copilot
+   3. RAG
+5. 1. Treat all inputs as untrusted
+   2. Log and monitor for goal drift 
+   3. Sanitise connected data sources
+6. THM{g04l_h1j4ck_succ3ss}
+7. No answer needed
