@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. Untrusted
+   2. Nay
+3. 1. Memory Snapshot
+   2. Sha256
+4. 1. MessageId
+   2. ActionId
+   3. ParentMessageId
+5. 1. deploy-exec-svc
+   2. require_restore_approval
+   3. working_objective
+6. 1. AgentInstanceId
+   2. Nay
+   3. THM{quarantine_verified}
+7. THM{trusted_recovery_verified}
+8. THM{staged_return_validated}
+9. No answer needed
