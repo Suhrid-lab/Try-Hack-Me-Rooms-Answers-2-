@@ -1,0 +1,16 @@
+1. No answer needed
+2. 1. generation_validation_gate
+   2. human_approval_elevated
+3. no_autonomous_memory_writes
+4. enforce_replay_protection
+5. 1. reject_unverified_sender
+   2. generation_validation_gate
+6. 1. weight_trust_over_recency
+   2. pinned_dependencies_only
+   3. sign_and_verify_messages
+7. 1. success
+   2. failed
+   3. regenerated
+   4. ok
+   5. 2
+8. No answer needed
