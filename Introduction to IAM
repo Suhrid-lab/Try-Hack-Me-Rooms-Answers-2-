@@ -1,0 +1,11 @@
+1. No answer needed
+2. AWS103, LabReadOnly
+3. 1. Identity-based
+   2. Principal,Action,Resource,Condition
+   3. MFA
+4. 1. s3:GetObject
+   2. Allow
+5. 1. try-log-me
+   2. THM{MY_SECRET_STASH}
+6. THM{POLP_IT_DOWN}
+7. No answer needed
