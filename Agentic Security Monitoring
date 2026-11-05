@@ -1,0 +1,17 @@
+1. No answer needed
+2. 1. Check
+   2. Start
+3. 1. docs-read-svc
+   2. payload hash
+4. 1. check_role
+   2. access-write-svc
+   3. approval.decision
+5. 1. M-0021
+   2. schedule.create
+6. 1. require_role_check_before_grant
+   2. the agent
+7. 1. read_transcript
+   2. telemetry-export-svc
+   3. SCH-0071
+   4. not_evaluated
+8. No answer needed
