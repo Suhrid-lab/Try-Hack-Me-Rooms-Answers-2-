@@ -1,0 +1,19 @@
+1. No answer needed
+2. 1. Tool
+   2. Identity
+   3. 2.0.0
+3. 1. scope_tools_per_agent
+   2. egress_allowlist
+   3. Nay
+4. 1. access-read-svc
+   2. require_jit_credential
+5. 1. 2.0.0
+   2. verify_manifest_on_load
+   3. Approved version
+6. 1. Nay
+   2. runbook_lint@2.1.0
+   3. Revoked
+7. THM{T00L_IDENTITY_LAYER_H4RDENED}
+8. 1. docs-agent
+   2. THM{AGENT_BOUNDARIES_VERIFIED}
+9. No answer needed
