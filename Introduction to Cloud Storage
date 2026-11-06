@@ -1,0 +1,10 @@
+1. No answer needed
+2. 1. Encryption
+   2. THM{ONE_BITE_AT_A_TIME}
+3. 1. bucket policy
+   2. THM{NO_PUBLIC_S3}
+4. 1. az-locked
+   2. THM{EBS_SPEAKS_VOLUMES}
+5. 1. Security Group
+   2. THM{SHARING_IS_CARING}
+6. No answer needed
