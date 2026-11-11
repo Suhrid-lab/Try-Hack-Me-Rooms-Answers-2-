@@ -1,0 +1,12 @@
+1. No answer needed
+2. 1. Kubernetes dashboard
+   2. Network segmentation
+3. 1. room32-shared-rt
+   2. 0.0.0.0/0
+   3. THM{UNFORESEEN_CONSEQUENCES}
+4. 1. replace-route-table-association
+   2. THM{BLACK_MESA_SECURED}
+5. 1. 2
+   2. MapPublicIpOnLaunch
+   3. THM{RIGHT_PLACE_RIGHT_ROUTE}
+6. No answer needed
