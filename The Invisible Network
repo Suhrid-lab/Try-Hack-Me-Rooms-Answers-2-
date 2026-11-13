@@ -1,0 +1,12 @@
+1. No answer needed
+2. 1. 4
+   2. Anomaly detection
+3. 1. ENI, Subnet, VPC
+   2. Metadata
+   3. THM{DARK_TEMPLAR_DETECTED}
+4. 1. ALL
+   2. THM{OBSERVER_DEPLOYED}
+5. 1. CloudWatch Logs
+   2. aws:SourceAccount 
+   3. THM{VOID_ILLUMINATED}
+6. No answer needed
