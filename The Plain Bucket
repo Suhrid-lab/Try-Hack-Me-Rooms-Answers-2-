@@ -1,0 +1,8 @@
+1. No answer needed
+2. customer-managed KMS
+3. THM{IS_MY_KMS_ON}
+4. 1. kms:Decrypt
+   2. THM{I_CANT_READ_THIS}
+5. 1. resource-based
+   2. THM{LOCKED_STOCKED_AND_DONE}
+6. No answer needed
