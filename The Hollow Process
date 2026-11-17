@@ -1,0 +1,11 @@
+1. No answer needed
+2. 1. svc-monitor
+   2. svchost32.exe
+   3. 8531
+   4. winupdate-metrics-relay.net
+   5. SystemHealthMonitor, WindowsUpdateHealthCheck
+   6. SystemHealthEventConsumer
+   7. powershell.exe
+   8. C:\Windows\system32\userinit.exe,,C:\Windows\Temp\svchost32.exe
+   9. C:\ProgramData\WinUpdate\svchost32.exe
+   10. WinDefragSvc
